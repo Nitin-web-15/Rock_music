@@ -1,2 +1,3 @@
 # Rock_music
-This is music website git Repository
+This is a music website git Repository
+Developed by: Nitin
